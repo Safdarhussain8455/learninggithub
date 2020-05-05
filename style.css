@@ -1,0 +1,25 @@
+header{
+    background-color: blue;
+}
+button{
+    padding: 5px;
+}
+
+.first{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-around;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    flex: 3;
+    justify-content: space-around;
+}
+.third{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-around;
+}
